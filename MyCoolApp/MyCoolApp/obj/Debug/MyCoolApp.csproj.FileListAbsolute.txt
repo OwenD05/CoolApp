@@ -1,0 +1,15 @@
+C:\Users\Owen\source\repos\MyCoolApp\MyCoolApp\bin\Debug\MyCoolApp.exe.config
+C:\Users\Owen\source\repos\MyCoolApp\MyCoolApp\bin\Debug\MyCoolApp.exe
+C:\Users\Owen\source\repos\MyCoolApp\MyCoolApp\bin\Debug\MyCoolApp.pdb
+C:\Users\Owen\source\repos\MyCoolApp\MyCoolApp\obj\Debug\MyCoolApp.csprojAssemblyReference.cache
+C:\Users\Owen\source\repos\MyCoolApp\MyCoolApp\obj\Debug\MainWindow.g.cs
+C:\Users\Owen\source\repos\MyCoolApp\MyCoolApp\obj\Debug\App.g.cs
+C:\Users\Owen\source\repos\MyCoolApp\MyCoolApp\obj\Debug\MyCoolApp_MarkupCompile.cache
+C:\Users\Owen\source\repos\MyCoolApp\MyCoolApp\obj\Debug\MyCoolApp_MarkupCompile.lref
+C:\Users\Owen\source\repos\MyCoolApp\MyCoolApp\obj\Debug\MainWindow.baml
+C:\Users\Owen\source\repos\MyCoolApp\MyCoolApp\obj\Debug\MyCoolApp.g.resources
+C:\Users\Owen\source\repos\MyCoolApp\MyCoolApp\obj\Debug\MyCoolApp.Properties.Resources.resources
+C:\Users\Owen\source\repos\MyCoolApp\MyCoolApp\obj\Debug\MyCoolApp.csproj.GenerateResource.cache
+C:\Users\Owen\source\repos\MyCoolApp\MyCoolApp\obj\Debug\MyCoolApp.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\MyCoolApp\MyCoolApp\obj\Debug\MyCoolApp.exe
+C:\Users\Owen\source\repos\MyCoolApp\MyCoolApp\obj\Debug\MyCoolApp.pdb
